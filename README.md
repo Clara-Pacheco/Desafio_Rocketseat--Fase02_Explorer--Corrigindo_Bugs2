@@ -8,4 +8,8 @@ O código sofreu algumas alterações nos principais pontos abordados nessa fase
 
 ![Imagem do desafio 02-N02](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Fase02_Explorer--Corrigindo_Bugs2/blob/main/images/bug_image.png)  
 
+## Resultado esperado:
+
+![Imagem do projeto corrigido](https://github.com/Clara-Pacheco/Desafio_Rocketseat--Fase02_Explorer--Corrigindo_Bugs2/blob/main/images/Corrigindo%20Bugs-%20Explorer%20Rocketseat-%20Desafio1-%20N02%20-%20Google%20Chrome%2007_04_2022%2006_55_47.png)
+
 Feito com 💜 por Rocketseat 👋
