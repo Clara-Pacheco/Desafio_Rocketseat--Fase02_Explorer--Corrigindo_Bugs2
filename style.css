@@ -62,6 +62,12 @@ body {
     color: #89c5cc;
     font-weight: bold;
   }
+
+  section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
   
   section p {
     font-size: 14px;
