@@ -9,14 +9,15 @@ body {
   }
   
   .page {
-    width: 600px;
-    margin: 0 auto;
+    width: 1200px;
+    margin: auto;
     padding-top: 65px;
    
   }
   
   nav {
-   
+    width: 900px;
+    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     
