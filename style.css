@@ -12,12 +12,14 @@ body {
     width: 600px;
     margin: 0 auto;
     padding-top: 65px;
+   
   }
   
   nav {
+   
     display: flex;
-    justify-content: start;
-    align-items: center;
+    justify-content: space-between;
+    
   
     margin-bottom: 15px;
   }
@@ -27,6 +29,7 @@ body {
     list-style: none;
     margin: 0;
     padding: 0;
+    gap: 48px;
   }
   
   a {
@@ -124,6 +127,7 @@ body {
   }
   
   #balls {
+    position: fixed;
       bottom: 0;
       right: 0;
   }
